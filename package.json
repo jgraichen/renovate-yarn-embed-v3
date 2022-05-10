@@ -2,6 +2,6 @@
   "name": "renovate-yarn-embed-v3",
   "private": true,
   "devDependencies": {
-    "webpack": "5.69.0"
+    "webpack": "5.72.1"
   }
 }
